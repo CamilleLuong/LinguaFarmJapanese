@@ -1,7 +1,7 @@
 // components/SentenceSection.js
 import VocabExampleBlock from './VocabExampleBlock';
 import SentenceControlButtons from './SentenceControlButtons';
-import TextToSpeech from './TextToSpeech';
+import TextToSpeechAdvanced from './TextToSpeechAdvanced';
 
 export default function SentenceSection({ sentence, sentenceIndex, clickedWords, vocabData, lessonVocab, onToggleTranslit, onToggleTranslation, onPractice, showTranslit, showTranslation }) {
   return (
@@ -25,7 +25,7 @@ export default function SentenceSection({ sentence, sentenceIndex, clickedWords,
       ))}
 
       <h4 className="text-lg font-semibold mt-6">Sentence {sentenceIndex + 1} of the text</h4>
-      <p className="mb-2">{sentence.text} <TextToSpeech text={sentence.text} /></p>
+      <p className="mb-2">{sentence.text} <TextToSpeechAdvanced text={sentence.hira || sentence.text} /></p>
       <SentenceControlButtons
         uniqueKey={`sentence-${sentenceIndex}`}
         onTransliterate={onToggleTranslit}
@@ -35,3 +35,4 @@ export default function SentenceSection({ sentence, sentenceIndex, clickedWords,
     </div>
   );
 }
+

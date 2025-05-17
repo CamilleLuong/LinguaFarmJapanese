@@ -1,6 +1,7 @@
 // components/GeneratedLessonSection.js
 import SentenceSection from './SentenceSection';
 import SentenceControlButtons from './SentenceControlButtons';
+import TextToSpeechAdvanced from './TextToSpeechAdvanced';
 
 export default function GeneratedLessonSection({ lessonData, clickedWords, vocabData, showTranslit, showTranslation, onToggleTranslit, onToggleTranslation, onPractice }) {
   return (
@@ -23,6 +24,7 @@ export default function GeneratedLessonSection({ lessonData, clickedWords, vocab
 
       <div className="mt-12 border-t pt-6">
         <h3 className="text-xl font-bold mb-2">Full Lesson Text</h3>
+<TextToSpeechAdvanced text={lessonData.sentences.map(s => s.hira).join(' ')} />
         <div className="mb-2 space-y-2">
           {lessonData.sentences.map((s, idx) => (
             <p key={idx}>{s.text}</p>

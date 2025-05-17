@@ -1,6 +1,6 @@
 // components/VocabExampleBlock.js
 import SentenceControlButtons from './SentenceControlButtons';
-import TextToSpeech from './TextToSpeech';
+import TextToSpeechAdvanced from './TextToSpeechAdvanced';
 
 export default function VocabExampleBlock({ word, sentenceIndex, examples, transliterations, translations, onToggleTranslit, onToggleTranslation, onPractice, showTranslit, showTranslation }) {
   return (
@@ -11,7 +11,7 @@ export default function VocabExampleBlock({ word, sentenceIndex, examples, trans
       <div className="space-y-2">
         {examples.map((sentence, idx) => (
           <div key={idx} className="bg-gray-100 p-2 rounded">
-            <p>{sentence} <TextToSpeech text={sentence} /></p>
+            <p>{sentence} <TextToSpeechAdvanced text={transliterations[idx] || sentence} /></p>
             {showTranslit && <p className="text-sm text-gray-600">{transliterations[idx]}</p>}
             {showTranslation && <p className="text-sm italic text-blue-600">{translations[idx]}</p>}
           </div>

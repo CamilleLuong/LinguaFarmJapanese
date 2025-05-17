@@ -5,6 +5,7 @@ import path from 'path';
 import { useState } from 'react';
 import Header from '../../components/Header';
 import GeneratedLessonSection from '../../components/GeneratedLessonSection';
+import TextToSpeechAdvanced from '../../components/TextToSpeechAdvanced';
 
 export default function LessonPage({ lessonData, vocabData }) {
   const router = useRouter();
@@ -45,7 +46,12 @@ export default function LessonPage({ lessonData, vocabData }) {
         <div className="text-xl text-gray-800">{lessonData.title.hira}</div>
         <div className="italic text-gray-500 mb-4">{lessonData.title.en}</div>
 
-        <p className="text-blue-600 mb-4">Click on the words you don't know</p>
+        <p className="text-blue-600 mb-2">
+  Click on the words you don't know
+</p>
+<div className="mb-4">
+  <TextToSpeechAdvanced text={lessonData.sentences.map(s => s.hira).join(' ')} />
+</div>
 
         {/* Main lesson text with clickable words */}
         <div className="bg-gray-100 p-4 rounded mb-4">
