@@ -1,0 +1,172 @@
+{
+    "文書": {
+        "exampleSentences": [
+            "文書を読みます。",
+            "その文書は会社の方針を説明しています。",
+            "文書の内容を精査する必要があります。"
+        ],
+        "transliteration": [
+            "ぶんしょをよみます。",
+            "そのぶんしょはかいしゃのほうしんをせつめいしています。",
+            "ぶんしょのないようをせいさするひつようがあります。"
+        ],
+        "translation": [
+            "I read the document.",
+            "The document explains the company's policy.",
+            "The content of the document needs to be examined carefully."
+        ]
+    },
+    "打撃": {
+        "exampleSentences": [
+            "彼の言葉は打撃だった。",
+            "経済に大きな打撃を与えた。",
+            "パンデミックは観光業に深刻な打撃をもたらした。"
+        ],
+        "transliteration": [
+            "かれのことばはだげきだった。",
+            "けいざいにおおきなだげきをあたえた。",
+            "ぱんでみっくはかんこうぎょうにしんこくなだげきをもたらした。"
+        ],
+        "translation": [
+            "His words were a blow.",
+            "It delivered a big blow to the economy.",
+            "The pandemic dealt a serious blow to the tourism industry."
+        ]
+    },
+    "報酬": {
+        "exampleSentences": [
+            "報酬をもらいます。",
+            "この仕事には高い報酬があります。",
+            "努力に見合った報酬が与えられるべきです。"
+        ],
+        "transliteration": [
+            "ほうしゅうをもらいます。",
+            "このしごとにはたかいほうしゅうがあります。",
+            "どりょくにみあったほうしゅうがあたえられるべきです。"
+        ],
+        "translation": [
+            "I receive a reward.",
+            "This job offers high compensation.",
+            "Rewards should be given according to effort."
+        ]
+    },
+    "移民": {
+        "exampleSentences": [
+            "彼は移民です。",
+            "多くの移民がこの国に来ました。",
+            "移民政策は国の将来に大きな影響を与える。"
+        ],
+        "transliteration": [
+            "かれはいみんです。",
+            "おおくのいみんがこのくににきました。",
+            "いみんせいさくはくにのしょうらいにおおきなえいきょうをあたえる。"
+        ],
+        "translation": [
+            "He is an immigrant.",
+            "Many immigrants have come to this country.",
+            "Immigration policy greatly affects the country's future."
+        ]
+    },
+    "依然": {
+        "exampleSentences": [
+            "依然として寒いです。",
+            "問題は依然として解決していない。",
+            "その地域では依然として水不足が続いている。"
+        ],
+        "transliteration": [
+            "いぜんとしてさむいです。",
+            "もんだいはいぜんとしてかいけつしていない。",
+            "そのちいきではいぜんとしてみずぶそくがつづいている。"
+        ],
+        "translation": [
+            "It’s still cold.",
+            "The problem remains unresolved.",
+            "There is still a water shortage in that area."
+        ]
+    },
+    "持続": {
+        "exampleSentences": [
+            "努力を持続します。",
+            "持続可能な開発が求められています。",
+            "その薬の効果は長時間持続します。"
+        ],
+        "transliteration": [
+            "どりょくをじぞくします。",
+            "じぞくかのうなかいはつがもとめられています。",
+            "そのくすりのこうかはちょうじかんじぞくします。"
+        ],
+        "translation": [
+            "I will continue my efforts.",
+            "Sustainable development is required.",
+            "The effect of the medicine lasts for a long time."
+        ]
+    },
+    "傾ける": {
+        "exampleSentences": [
+            "コップを傾けます。",
+            "彼は耳を傾けて話を聞いた。",
+            "全力を傾けてこのプロジェクトに取り組みました。"
+        ],
+        "transliteration": [
+            "こっぷをかたむけます。",
+            "かれはみみをかたむけてはなしをきいた。",
+            "ぜんりょくをかたむけてこのぷろじぇくとにとりくみました。"
+        ],
+        "translation": [
+            "I tilt the cup.",
+            "He listened attentively.",
+            "I devoted all my energy to this project."
+        ]
+    },
+    "好意": {
+        "exampleSentences": [
+            "彼に好意を持っています。",
+            "彼女の好意に感謝します。",
+            "彼の申し出は純粋な好意によるものでした。"
+        ],
+        "transliteration": [
+            "かれにこういをもっています。",
+            "かのじょのこういにかんしゃします。",
+            "かれのもうしではじゅんすいなこういによるものでした。"
+        ],
+        "translation": [
+            "I have affection for him.",
+            "I appreciate her kindness.",
+            "His offer came from pure goodwill."
+        ]
+    },
+    "購入": {
+        "exampleSentences": [
+            "新しい本を購入しました。",
+            "購入には現金が必要です。",
+            "オンラインでの購入が増えています。"
+        ],
+        "transliteration": [
+            "あたらしいほんをこうにゅうしました。",
+            "こうにゅうにはげんきんがひつようです。",
+            "おんらいんでのこうにゅうがふえています。"
+        ],
+        "translation": [
+            "I bought a new book.",
+            "You need cash for the purchase.",
+            "Online purchases are increasing."
+        ]
+    },
+    "明瞭": {
+        "exampleSentences": [
+            "明瞭な説明をお願いします。",
+            "彼の話し方は明瞭でわかりやすいです。",
+            "明瞭なビジョンが組織の成功を導く。"
+        ],
+        "transliteration": [
+            "めいりょうなせつめいをおねがいします。",
+            "かれのはなしかたはめいりょうでわかりやすいです。",
+            "めいりょうなびじょんがそしきのせいこうをみちびく。"
+        ],
+        "translation": [
+            "Please give a clear explanation.",
+            "His way of speaking is clear and easy to understand.",
+            "A clear vision leads to organizational success."
+        ]
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "あげる": {
+        "exampleSentences": [
+            "プレゼントをあげます。",
+            "彼に本をあげた。",
+            "彼女は子どもたちに絵本をあげて喜ばせた。"
+        ],
+        "transliteration": [
+            "ぷれぜんとをあげます。",
+            "かれにほんをあげた。",
+            "かのじょはこどもたちにえほんをあげてよろこばせた。"
+        ],
+        "translation": [
+            "I will give a present.",
+            "I gave him a book.",
+            "She made the children happy by giving them picture books."
+        ]
+    },
+    "朝": {
+        "exampleSentences": [
+            "朝ごはんを食べます。",
+            "朝は散歩をします。",
+            "毎朝６時に起きるようにしています。"
+        ],
+        "transliteration": [
+            "あさごはんをたべます。",
+            "あさはさんぽをします。",
+            "まいあさろくじにおきるようにしています。"
+        ],
+        "translation": [
+            "I eat breakfast.",
+            "I take a walk in the morning.",
+            "I try to wake up at 6 a.m. every morning."
+        ]
+    },
+    "封筒": {
+        "exampleSentences": [
+            "封筒を買いました。",
+            "この封筒に手紙を入れてください。",
+            "赤い封筒にお金を入れて送ります。"
+        ],
+        "transliteration": [
+            "ふうとうをかいました。",
+            "このふうとうにてがみをいれてください。",
+            "あかいふうとうにおかねをいれておくります。"
+        ],
+        "translation": [
+            "I bought an envelope.",
+            "Please put the letter in this envelope.",
+            "I will put money in a red envelope and send it."
+        ]
+    },
+    "冬": {
+        "exampleSentences": [
+            "冬は寒いです。",
+            "冬になると雪が降ります。",
+            "冬の間にスキー旅行に行く予定です。"
+        ],
+        "transliteration": [
+            "ふゆはさむいです。",
+            "ふゆになるとゆきがふります。",
+            "ふゆのあいだにすきーりょこうにいくよていです。"
+        ],
+        "translation": [
+            "Winter is cold.",
+            "It snows in winter.",
+            "I plan to go on a ski trip during the winter."
+        ]
+    },
+    "五": {
+        "exampleSentences": [
+            "りんごが五つあります。",
+            "五人で映画を見ました。",
+            "五年間日本語を勉強しています。"
+        ],
+        "transliteration": [
+            "りんごがいつつあります。",
+            "ごにんでえいがをみました。",
+            "ごねんかんにほんごをべんきょうしています。"
+        ],
+        "translation": [
+            "There are five apples.",
+            "Five of us watched a movie.",
+            "I have been studying Japanese for five years."
+        ]
+    },
+    "否": {
+        "exampleSentences": [
+            "いいえ、違います。",
+            "彼は否と答えた。",
+            "彼女は申し出を否とした理由を説明した。"
+        ],
+        "transliteration": [
+            "いいえ、ちがいます。",
+            "かれはいいえとこたえた。",
+            "かのじょはもうしでをいいえとしたりゆうをせつめいした。"
+        ],
+        "translation": [
+            "No, that’s incorrect.",
+            "He answered no.",
+            "She explained the reason she declined the offer."
+        ]
+    },
+    "一緒": {
+        "exampleSentences": [
+            "一緒に行きましょう。",
+            "彼と一緒に勉強しました。",
+            "彼女と一緒にプロジェクトを完成させた。"
+        ],
+        "transliteration": [
+            "いっしょにいきましょう。",
+            "かれといっしょにべんきょうしました。",
+            "かのじょといっしょにぷろじぇくとをかんせいさせた。"
+        ],
+        "translation": [
+            "Let’s go together.",
+            "I studied together with him.",
+            "I completed the project together with her."
+        ]
+    },
+    "可愛い": {
+        "exampleSentences": [
+            "猫が可愛いです。",
+            "その子はとても可愛いですね。",
+            "彼女は可愛い服を着ていたので、目を引いた。"
+        ],
+        "transliteration": [
+            "ねこがかわいいです。",
+            "そのこはとてもかわいいですね。",
+            "かのじょはかわいいふくをきていたので、めをひいた。"
+        ],
+        "translation": [
+            "The cat is cute.",
+            "That child is very cute.",
+            "She wore cute clothes that caught people’s attention."
+        ]
+    },
+    "喫茶店": {
+        "exampleSentences": [
+            "喫茶店に行きます。",
+            "あの喫茶店は静かです。",
+            "週末にはお気に入りの喫茶店で本を読みます。"
+        ],
+        "transliteration": [
+            "きっさてんにいきます。",
+            "あのきっさてんはしずかです。",
+            "しゅうまつにはおきにいりのきっさてんでほんをよみます。"
+        ],
+        "translation": [
+            "I’m going to a coffee shop.",
+            "That coffee shop is quiet.",
+            "On weekends, I read books at my favorite coffee shop."
+        ]
+    },
+    "お菓子": {
+        "exampleSentences": [
+            "お菓子を食べます。",
+            "日本のお菓子が好きです。",
+            "この店は手作りのお菓子で有名です。"
+        ],
+        "transliteration": [
+            "おかしをたべます。",
+            "にほんのおかしがすきです。",
+            "このみせはてづくりのおかしでゆうめいです。"
+        ],
+        "translation": [
+            "I eat sweets.",
+            "I like Japanese sweets.",
+            "This shop is famous for handmade sweets."
+        ]
+    }
+}

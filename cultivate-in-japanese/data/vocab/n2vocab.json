@@ -1,0 +1,172 @@
+{
+    "少数": {
+        "exampleSentences": [
+            "少数の学生が来ました。",
+            "この意見に賛成する人は少数です。",
+            "少数の意見も尊重されるべきです。"
+        ],
+        "transliteration": [
+            "しょうすうのがくせいがきました。",
+            "このいけんにさんせいするひとはしょうすうです。",
+            "しょうすうのいけんもそんちょうされるべきです。"
+        ],
+        "translation": [
+            "A few students came.",
+            "Few people agree with this opinion.",
+            "Minority opinions should also be respected."
+        ]
+    },
+    "安価": {
+        "exampleSentences": [
+            "この商品は安価です。",
+            "安価な品物を探しています。",
+            "安価で質の高い製品を提供することが目標です。"
+        ],
+        "transliteration": [
+            "このしょうひんはあんかです。",
+            "あんかなしなものをさがしています。",
+            "あんかでしつのたかいせいひんをていきょうすることがもくひょうです。"
+        ],
+        "translation": [
+            "This product is inexpensive.",
+            "I’m looking for cheap goods.",
+            "The goal is to offer high-quality products at low prices."
+        ]
+    },
+    "争う": {
+        "exampleSentences": [
+            "兄弟がよく争います。",
+            "両チームが優勝を争っている。",
+            "その問題については法廷で争うことになった。"
+        ],
+        "transliteration": [
+            "きょうだいがよくあらそうます。",
+            "りょうちーむがゆうしょうをあらそっている。",
+            "そのもんだいについてはほうていであらそうことになった。"
+        ],
+        "translation": [
+            "The siblings often quarrel.",
+            "Both teams are competing for the championship.",
+            "The issue will be contested in court."
+        ]
+    },
+    "あっという間": {
+        "exampleSentences": [
+            "あっという間に終わりました。",
+            "休みはあっという間に過ぎました。",
+            "一年があっという間に過ぎてしまったと感じます。"
+        ],
+        "transliteration": [
+            "あっというまにおわりました。",
+            "やすみはあっというまにすぎました。",
+            "いちねんがあっというまにすぎてしまったとかんじます。"
+        ],
+        "translation": [
+            "It ended in a flash.",
+            "The break passed in no time.",
+            "I feel like the year went by in the blink of an eye."
+        ]
+    },
+    "直立": {
+        "exampleSentences": [
+            "彼は直立しています。",
+            "兵士たちは直立して命令を待っていた。",
+            "ロボットが直立歩行できるようになった。"
+        ],
+        "transliteration": [
+            "かれはちょくりつしています。",
+            "へいしたちはちょくりつしてめいれいをまっていた。",
+            "ろぼっとがちょくりつほこうできるようになった。"
+        ],
+        "translation": [
+            "He is standing upright.",
+            "The soldiers stood upright waiting for orders.",
+            "Robots have become able to walk upright."
+        ]
+    },
+    "長方形": {
+        "exampleSentences": [
+            "この紙は長方形です。",
+            "長方形の箱に入れてください。",
+            "長方形の面積は縦と横を掛けて求めます。"
+        ],
+        "transliteration": [
+            "このかみはちょうほうけいです。",
+            "ちょうほうけいのはこにいれてください。",
+            "ちょうほうけいのめんせきはたてとよこをかけてもとめます。"
+        ],
+        "translation": [
+            "This paper is rectangular.",
+            "Please put it in the rectangular box.",
+            "The area of a rectangle is calculated by multiplying its length and width."
+        ]
+    },
+    "抽選": {
+        "exampleSentences": [
+            "抽選で決めます。",
+            "抽選に当たりました。",
+            "イベントの参加者は抽選によって選ばれます。"
+        ],
+        "transliteration": [
+            "ちゅうせんできめます。",
+            "ちゅうせんにあたりました。",
+            "いべんとのさんかしゃはちゅうせんによってえらばれます。"
+        ],
+        "translation": [
+            "It will be decided by lottery.",
+            "I won the lottery.",
+            "Participants in the event are chosen by lottery."
+        ]
+    },
+    "動機": {
+        "exampleSentences": [
+            "動機は何ですか？",
+            "彼の動機は不明です。",
+            "彼女の行動の背後にある動機を調査しています。"
+        ],
+        "transliteration": [
+            "どうきはなんですか？",
+            "かれのどうきはふめいです。",
+            "かのじょのこうどうのはいごにあるどうきをちょうさしています。"
+        ],
+        "translation": [
+            "What is the motive?",
+            "His motive is unknown.",
+            "They are investigating the motive behind her actions."
+        ]
+    },
+    "動作": {
+        "exampleSentences": [
+            "この機械の動作が遅いです。",
+            "正しい動作を確認してください。",
+            "複雑な動作でも正確に再現できるロボットが開発された。"
+        ],
+        "transliteration": [
+            "このきかいのどうさがおそいです。",
+            "ただしいどうさをかくにんしてください。",
+            "ふくざつなどうさでもせいかくにさいげんできるろぼっとがかいはつされた。"
+        ],
+        "translation": [
+            "This machine is slow to operate.",
+            "Please check the correct operation.",
+            "A robot was developed that can accurately reproduce even complex movements."
+        ]
+    },
+    "外観": {
+        "exampleSentences": [
+            "この建物の外観は美しいです。",
+            "外観と中身は違うことがあります。",
+            "商品の外観だけでなく品質にも注目してください。"
+        ],
+        "transliteration": [
+            "このたてもののがいかんはうつくしいです。",
+            "がいかんとなかみはちがうことがあります。",
+            "しょうひんのがいかんだけでなくひんしつにもちゅうもくしてください。"
+        ],
+        "translation": [
+            "The exterior of this building is beautiful.",
+            "The appearance and content can be different.",
+            "Please pay attention not only to the appearance but also to the quality of the product."
+        ]
+    }
+}

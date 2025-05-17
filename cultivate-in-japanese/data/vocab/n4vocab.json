@@ -1,0 +1,172 @@
+{
+    "僕": {
+        "exampleSentences": [
+            "僕は学生です。",
+            "僕の名前はケンです。",
+            "僕は将来、医者になりたいと思っています。"
+        ],
+        "transliteration": [
+            "ぼくはがくせいです。",
+            "ぼくのなまえはけんです。",
+            "ぼくはしょうらい、いしゃになりたいとおもっています。"
+        ],
+        "translation": [
+            "I am a student.",
+            "My name is Ken.",
+            "I want to become a doctor in the future."
+        ]
+    },
+    "中学校": {
+        "exampleSentences": [
+            "中学校に通っています。",
+            "この中学校は新しいです。",
+            "彼は中学校の時から野球をしています。"
+        ],
+        "transliteration": [
+            "ちゅうがっこうにかよっています。",
+            "このちゅうがっこうはあたらしいです。",
+            "かれはちゅうがっこうのときからやきゅうをしています。"
+        ],
+        "translation": [
+            "I go to junior high school.",
+            "This junior high school is new.",
+            "He has been playing baseball since junior high school."
+        ]
+    },
+    "遠慮": {
+        "exampleSentences": [
+            "どうぞ、遠慮しないでください。",
+            "彼は遠慮して食べませんでした。",
+            "遠慮せずに自分の意見を言うべきです。"
+        ],
+        "transliteration": [
+            "どうぞ、えんりょしないでください。",
+            "かれはえんりょしてたべませんでした。",
+            "えんりょせずにじぶんのいけんをいうべきです。"
+        ],
+        "translation": [
+            "Please, don’t hesitate.",
+            "He refrained from eating.",
+            "You should express your opinion without holding back."
+        ]
+    },
+    "地震": {
+        "exampleSentences": [
+            "地震がありました。",
+            "地震のときは机の下に隠れます。",
+            "昨夜の地震はとても強かったです。"
+        ],
+        "transliteration": [
+            "じしんがありました。",
+            "じしんのときはつくえのしたにかくれます。",
+            "さくやのじしんはとてもつよかったです。"
+        ],
+        "translation": [
+            "There was an earthquake.",
+            "During an earthquake, I hide under the desk.",
+            "Last night's earthquake was very strong."
+        ]
+    },
+    "十分": {
+        "exampleSentences": [
+            "十分寝ました。",
+            "お金は十分にあります。",
+            "この情報は決定を下すのに十分だと思います。"
+        ],
+        "transliteration": [
+            "じゅうぶんねました。",
+            "おかねはじゅうぶんにあります。",
+            "このじょうほうはけっていをくだすのにじゅうぶんだとおもいます。"
+        ],
+        "translation": [
+            "I slept enough.",
+            "There is plenty of money.",
+            "I think this information is sufficient to make a decision."
+        ]
+    },
+    "消しゴム": {
+        "exampleSentences": [
+            "消しゴムを使います。",
+            "机の上に消しゴムがあります。",
+            "この消しゴムはよく消えるので便利です。"
+        ],
+        "transliteration": [
+            "けしごむをつかいます。",
+            "つくえのうえにけしごむがあります。",
+            "このけしごむはよくきえるのでべんりです。"
+        ],
+        "translation": [
+            "I use an eraser.",
+            "There is an eraser on the desk.",
+            "This eraser works well, so it’s useful."
+        ]
+    },
+    "国内": {
+        "exampleSentences": [
+            "国内旅行をしました。",
+            "国内の経済が回復しています。",
+            "この製品はすべて国内で生産されています。"
+        ],
+        "transliteration": [
+            "こくないりょこうをしました。",
+            "こくないのけいざいがかいふくしています。",
+            "このせいひんはすべてこくないでせいさんされています。"
+        ],
+        "translation": [
+            "I took a domestic trip.",
+            "The domestic economy is recovering.",
+            "This product is entirely manufactured domestically."
+        ]
+    },
+    "客": {
+        "exampleSentences": [
+            "お客さんが来ました。",
+            "店には多くの客がいました。",
+            "そのホテルは外国からの客で賑わっていました。"
+        ],
+        "transliteration": [
+            "おきゃくさんがきました。",
+            "みせにはおおくのきゃくがいました。",
+            "そのほてるはがいこくからのきゃくでにぎわっていました。"
+        ],
+        "translation": [
+            "A guest came.",
+            "There were many customers in the store.",
+            "The hotel was bustling with guests from abroad."
+        ]
+    },
+    "熱心": {
+        "exampleSentences": [
+            "彼は熱心に勉強しています。",
+            "彼女は熱心な先生です。",
+            "彼の熱心な態度がチームに良い影響を与えた。"
+        ],
+        "transliteration": [
+            "かれはねっしんにべんきょうしています。",
+            "かのじょはねっしんなせんせいです。",
+            "かれのねっしんなたいどがちーむによいえいきょうをあたえた。"
+        ],
+        "translation": [
+            "He studies enthusiastically.",
+            "She is an enthusiastic teacher.",
+            "His enthusiastic attitude had a positive impact on the team."
+        ]
+    },
+    "驚く": {
+        "exampleSentences": [
+            "音に驚きました。",
+            "彼の発言に驚いた。",
+            "そのニュースを聞いてとても驚いた。"
+        ],
+        "transliteration": [
+            "おとにおどろきました。",
+            "かれのはつげんにおどろいた。",
+            "そのにゅーすをきいてとてもおどろいた。"
+        ],
+        "translation": [
+            "I was surprised by the sound.",
+            "I was surprised by his statement.",
+            "I was very surprised to hear the news."
+        ]
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "馬鹿": {
+        "exampleSentences": [
+            "そんなことをするなんて馬鹿だ。",
+            "彼は自分の失敗を馬鹿だと思った。",
+            "他人を馬鹿にするのは良くないことです。"
+        ],
+        "transliteration": [
+            "そんなことをするなんてばかだ。",
+            "かれはじぶんのしっぱいをばかだとおもった。",
+            "たにんをばかにするのはよくないことです。"
+        ],
+        "translation": [
+            "It’s foolish to do such a thing.",
+            "He thought his mistake was foolish.",
+            "It's not good to make fun of others."
+        ]
+    },
+    "地下": {
+        "exampleSentences": [
+            "地下に行きます。",
+            "地下鉄は地下を走っています。",
+            "このビルには広い地下室があります。"
+        ],
+        "transliteration": [
+            "ちかにいきます。",
+            "ちかてつはちかをはしっています。",
+            "このびるにはひろいちかしつがあります。"
+        ],
+        "translation": [
+            "I’m going to the basement.",
+            "The subway runs underground.",
+            "This building has a large basement."
+        ]
+    },
+    "知識": {
+        "exampleSentences": [
+            "知識を学びます。",
+            "彼は多くの知識を持っています。",
+            "知識を活かして問題を解決した。"
+        ],
+        "transliteration": [
+            "ちしきをまなびます。",
+            "かれはおおくのちしきをもっています。",
+            "ちしきをいかしてもんだいをかいけつした。"
+        ],
+        "translation": [
+            "I learn knowledge.",
+            "He has a lot of knowledge.",
+            "He used his knowledge to solve the problem."
+        ]
+    },
+    "伝統": {
+        "exampleSentences": [
+            "日本の伝統を学びます。",
+            "この祭りは古い伝統があります。",
+            "伝統を守ることは文化の継承に重要です。"
+        ],
+        "transliteration": [
+            "にほんのでんとうをまなびます。",
+            "このまつりはふるいでんとうがあります。",
+            "でんとうをまもることはぶんかのけいしょうにじゅうようです。"
+        ],
+        "translation": [
+            "I learn about Japanese traditions.",
+            "This festival has old traditions.",
+            "Preserving tradition is important for cultural heritage."
+        ]
+    },
+    "毒": {
+        "exampleSentences": [
+            "そのきのこは毒があります。",
+            "毒に気をつけてください。",
+            "彼の言葉はまるで毒のようだった。"
+        ],
+        "transliteration": [
+            "そのきのこはどくがあります。",
+            "どくにきをつけてください。",
+            "かれのことばはまるでどくのようだった。"
+        ],
+        "translation": [
+            "That mushroom is poisonous.",
+            "Please be careful of poison.",
+            "His words were like poison."
+        ]
+    },
+    "服装": {
+        "exampleSentences": [
+            "服装を整えます。",
+            "今日は特別な服装が必要です。",
+            "場面に応じた服装を選ぶことは大切です。"
+        ],
+        "transliteration": [
+            "ふくそうをととのえます。",
+            "きょうはとくべつなふくそうがひつようです。",
+            "ばめんにおうじたふくそうをえらぶことはたいせつです。"
+        ],
+        "translation": [
+            "I will adjust my clothing.",
+            "Special attire is needed today.",
+            "Choosing appropriate attire for the occasion is important."
+        ]
+    },
+    "防ぐ": {
+        "exampleSentences": [
+            "風邪を防ぎます。",
+            "マスクで病気を防ぎます。",
+            "早期の対策が被害を防ぐ鍵となる。"
+        ],
+        "transliteration": [
+            "かぜをふせぎます。",
+            "ますくでびょうきをふせぎます。",
+            "そうきのたいさくがひがいをふせぐかぎとなる。"
+        ],
+        "translation": [
+            "I prevent colds.",
+            "I prevent illness with a mask.",
+            "Early measures are key to preventing damage."
+        ]
+    },
+    "否定": {
+        "exampleSentences": [
+            "彼はそれを否定しました。",
+            "事実を否定することはできません。",
+            "彼の主張はデータによって否定された。"
+        ],
+        "transliteration": [
+            "かれはそれをひていしました。",
+            "じじつをひていすることはできません。",
+            "かれのしゅちょうはでーたによってひていされた。"
+        ],
+        "translation": [
+            "He denied it.",
+            "You can't deny the facts.",
+            "His argument was refuted by the data."
+        ]
+    },
+    "豊富": {
+        "exampleSentences": [
+            "この店は商品が豊富です。",
+            "彼は経験が豊富です。",
+            "この地域は自然資源が豊富にあります。"
+        ],
+        "transliteration": [
+            "このみせはしょうひんがほうふです。",
+            "かれはけいけんがほうふです。",
+            "このちいきはしぜんしげんがほうふにあります。"
+        ],
+        "translation": [
+            "This store has a wide variety of products.",
+            "He has a wealth of experience.",
+            "This area is rich in natural resources."
+        ]
+    },
+    "訪問": {
+        "exampleSentences": [
+            "友達を訪問しました。",
+            "先生の家を訪問する予定です。",
+            "大臣の訪問は国際関係を強化する目的があります。"
+        ],
+        "transliteration": [
+            "ともだちをほうもんしました。",
+            "せんせいのいえをほうもんするよていです。",
+            "だいじんのほうもんはこくさいかんけいをきょうかするもくてきがあります。"
+        ],
+        "translation": [
+            "I visited a friend.",
+            "I plan to visit my teacher's house.",
+            "The minister's visit aims to strengthen international relations."
+        ]
+    }
+}
